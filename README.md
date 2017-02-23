@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/vs9390/example_gem.svg?branch=master)](https://travis-ci.org/vs9390/example_gem)
 
+[![Coverage Status](https://coveralls.io/repos/github/vs9390/example_gem/badge.svg?branch=master)](https://coveralls.io/github/vs9390/example_gem?branch=master)
 
 # FirstGem
 
