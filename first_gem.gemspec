@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'first_gem/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "first_gem"
+  spec.name          = "first_gem_vs_rb"
   spec.version       = FirstGem::VERSION
   spec.authors       = ["vishal sharma"]
   spec.email         = ["vs9390@gmail.com"]
