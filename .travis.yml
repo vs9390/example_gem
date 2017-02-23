@@ -1,0 +1,6 @@
+language: ruby
+rvm:
+    - 2.3.0p0
+
+cache: bundler
+script: 'bundle exec rspec spec'
